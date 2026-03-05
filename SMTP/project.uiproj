@@ -1,0 +1,6 @@
+{
+  "Name": "SMTP",
+  "ProjectType": "Process",
+  "Description": "Send email\r\n",
+  "MainFile": "Main.xaml"
+}
